@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @TT6Programming
-- 👀 I’m interested in Tennis
-- 🌱 I’m currently learning Java
-- 📫 How to reach me Instagram
+- Tennis player
+- Currently learning C#
+- How to reach me:
+     •Discord: TT6#2649
+- Looking for level and character designer
 
 <!---
 TT6Programming/TT6Programming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
