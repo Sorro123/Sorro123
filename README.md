@@ -1,8 +1,8 @@
 - Tennis player
 - Currently learning C#
 - How to reach me:
-     •Discord: TT6#2649
-- Looking for level and character designer
+     Discord: TT6#2649
+- Looking for level and character designer(pro bono)
 
 <!---
 TT6Programming/TT6Programming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
