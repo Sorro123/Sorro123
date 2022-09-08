@@ -1,7 +1,7 @@
 - Tennis player
 - Currently learning C#
 - How to reach me:
-     Discord: TT6#2649
+- [Discord](https://discord.com/users/719513697730691113)
 - [TikTok](https://tiktok.com/@thomastedds)
 
 <!---
