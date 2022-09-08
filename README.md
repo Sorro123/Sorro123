@@ -2,7 +2,7 @@
 - Currently learning C#
 - How to reach me:
      Discord: TT6#2649
-- tiktok.com/@thomastedds
+- [TikTok](https://tiktok.com/@thomastedds)
 
 <!---
 TT6Programming/TT6Programming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
