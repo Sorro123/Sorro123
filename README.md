@@ -1,6 +1,7 @@
 - Tennis player
 - Currently learning C#
 - How to reach me:
+- [WhatsApp](https://api.whatsapp.com/send?phone=+34722184586)
 - [Discord](https://discord.com/users/719513697730691113)
 - [TikTok](https://tiktok.com/@thomastedds)
 <!---
