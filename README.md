@@ -2,6 +2,4 @@
 - Currently learning C#
 - How to reach me:
 - [Discord](https://discord.com/users/719513697730691113)
-- [Instagram](https://www.instagram.com/thomastedds/)
 - [WhatsApp](https://api.whatsapp.com/send?phone=+34722184586)
-- [TikTok](https://tiktok.com/@thomastedds)
